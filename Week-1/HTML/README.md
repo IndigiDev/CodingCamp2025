@@ -2,7 +2,7 @@
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_HyperText_Markup_Language__1"></a><em>HyperText Markup Language</em></h2>
 <p class="has-line-data" data-line-start="4" data-line-end="5">HTML defines the structure and content of webpages. It is the frame of the website and one of the fundamental building blocks for all websites. Just about every webpage you see on the internet is made up of the HTML elements you will learn in this lesson.</p>
 <h2 class="code-line" data-line-start=6 data-line-end=7 ><a id="HTML_Elements_and_Tags_6"></a>HTML Elements and Tags</h2>
-<p class="has-line-data" data-line-start="8" data-line-end="9">In General, an HTML Element is build of three parts:</p>
+<p class="has-line-data" data-line-start="8" data-line-end="9">In General, an HTML Element is made up of three parts:</p>
 <ul>
 <li class="has-line-data" data-line-start="9" data-line-end="10">The opening HTML Tag</li>
 <li class="has-line-data" data-line-start="10" data-line-end="11">The content of the html element</li>
